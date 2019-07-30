@@ -1,0 +1,9 @@
+    
+[
+	{
+	 "module" : "windir"
+	},
+	{
+	 "module" : "winenv"
+	}
+]
